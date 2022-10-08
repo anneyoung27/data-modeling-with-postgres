@@ -7,7 +7,7 @@ def create_database():
     try:
         conn = psycopg2.connect(
             user="postgres",\
-            password="Akusukabaju123",\
+            password="<password>",\
             host="localhost",\
             port="5432",\
             dbname="sparkifydb"
