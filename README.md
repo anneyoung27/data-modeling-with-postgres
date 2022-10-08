@@ -1,3 +1,6 @@
+
+![elephant](https://user-images.githubusercontent.com/63891089/194710009-f2e4fc55-c39e-4dff-b468-a1e97bfe7ab9.png)
+
 # Project Description
 A startup called Sparkify wants to analyze the data they've been collecting on songs and user activity on their new music streaming app. The analytics team is particularly interested in understanding what songs users are listening to. Currently, they don't have an easy way to query their data, which resides in a directory of JSON logs on user activity on the app, as well as a directory with JSON metadata on the songs in their app.
 
