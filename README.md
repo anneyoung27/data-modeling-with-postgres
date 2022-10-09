@@ -37,6 +37,6 @@ In addition to the data files, the project workspace includes six files:
         start_time, hour, day, week, month, year, weekday
 
 # Star Schema!
-[ww](https://user-images.githubusercontent.com/63891089/194772024-9979badc-b150-4f23-bfb8-7f9feffd2d59.jpg)
+(https://user-images.githubusercontent.com/63891089/194772024-9979badc-b150-4f23-bfb8-7f9feffd2d59.jpg)
 
 # NOTE: You will not be able to run `test.ipynb`, `etl.ipynb`, or `etl.py` until you have run `create_tables.py` at least once to create the sparkifydb database, which these other files connect to.
