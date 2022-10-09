@@ -36,7 +36,7 @@ In addition to the data files, the project workspace includes six files:
 - time = timestamps of records in songplays broken down into specific units
         start_time, hour, day, week, month, year, weekday
 
-# Star Schema!
+# Star Schema
 ![ww](https://user-images.githubusercontent.com/63891089/194772060-44c6103d-1732-4934-b566-1e242141e590.jpg)
 
 
